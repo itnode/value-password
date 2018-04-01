@@ -1,0 +1,29 @@
+{
+  "name": "value-password",
+  "version": "1.0.0",
+  "authors": [
+    "Jens Gassmann <jg@gassmann.it>"
+  ],
+  "description": "An element providing a solution to no problem in particular.",
+  "keywords": [
+    "web-component",
+    "web-components",
+    "polymer",
+    "seed"
+  ],
+  "main": "value-password.html",
+  "license": "http://polymer.github.io/LICENSE.txt",
+  "homepage": "https://github.com/itnode/value-password/",
+  "ignore": [
+    "/.*",
+    "/test/",
+    "/demo/"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^2.0.0"
+  },
+  "devDependencies": {
+    "iron-component-page": "PolymerElements/iron-component-page#^2.0.0",
+    "web-component-tester": "*"
+  }
+}
